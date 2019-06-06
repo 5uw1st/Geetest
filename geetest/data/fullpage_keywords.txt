@@ -1,0 +1,1505 @@
+0 ==> p
+1 ==> mousemove
+2 ==> children
+3 ==> scrollTop
+4 ==> MAX_RENDERBUFFER_SIZE
+5 ==> .hook
+6 ==> e
+7 ==> absolute
+8 ==> outline-width
+9 ==> webgl max anisotropy:
+10 ==> webgl fragment shader high float precision rangeMin:
+11 ==> screenAvailHeight
+12 ==> clearTimeout
+13 ==> span.success_radar_tip_timeinfo
+14 ==> MSPointerUp
+15 ==> float
+16 ==> jc
+17 ==> mouseenter
+18 ==> plugins
+19 ==> url_get
+20 ==> magic data
+21 ==> Oc
+22 ==> keyCode
+23 ==> ended
+24 ==> gain
+25 ==> compute_2
+26 ==> status: 
+27 ==> next_width
+28 ==> hidden
+29 ==> .success_show
+30 ==> Georgia
+31 ==> post
+32 ==> fFtZ0VaY4Gg
+33 ==> dmp1
+34 ==> alphabetic
+35 ==> 验证图片加载失败：1.请保持网络畅通；2.请联系极验官网客服
+36 ==> phantom
+37 ==> .radar
+38 ==> span.success_radar_tip_content
+39 ==> .
+40 ==> multiply
+41 ==> .holder
+42 ==> Century Gothic
+43 ==> bc
+44 ==> BufferedBlockAlgorithm
+45 ==> Encryptor
+46 ==> theme
+47 ==> numItems
+48 ==> Geetest requires a window with a document
+49 ==> Oe
+50 ==> Arial MT
+51 ==> on
+52 ==> domainLookupEnd
+53 ==> block
+54 ==> queue is empty
+55 ==> toString
+56 ==> J
+57 ==> lf
+58 ==> ZERO
+59 ==> Te
+60 ==> UNMASKED_VENDOR_WEBGL
+61 ==> Generator
+62 ==> WordArray
+63 ==> systemLanguage
+64 ==> index
+65 ==> fg
+66 ==> STATIC_DRAW
+67 ==> callback
+68 ==> margin-right
+69 ==> MSPointerDown
+70 ==> createElement
+71 ==> experimental-webgl
+72 ==> status
+73 ==> LOW_FLOAT
+74 ==> this is null or not defined
+75 ==> Fb
+76 ==> webgl fragment shader medium int precision rangeMax:
+77 ==> ka
+78 ==> rgb(255,0,255)
+79 ==> onFail
+80 ==> MAX_TEXTURE_MAX_ANISOTROPY_EXT
+81 ==> Vd
+82 ==> .goto_ghost
+83 ==> Base
+84 ==> &t=
+85 ==> serif
+86 ==> unloadEventStart
+87 ==> MS Reference Sans Serif
+88 ==> Arial Unicode MS
+89 ==> reverse
+90 ==> TEXTAREA
+91 ==> abrupt
+92 ==> ,
+93 ==> srcElement
+94 ==> Zf
+95 ==> application/json
+96 ==> 網絡不給力
+97 ==> .scan
+98 ==> loadEventEnd
+99 ==> ~
+100 ==> STENCIL_BITS
+101 ==> gt
+102 ==> compareTo
+103 ==> Ud
+104 ==> .reset_tip_content
+105 ==> Nf
+106 ==> [
+107 ==> responseEnd
+108 ==> boolean
+109 ==> He
+110 ==> webgl
+111 ==> =
+112 ==> a.logo
+113 ==> closePath
+114 ==> refresh_page
+115 ==> disconnect
+116 ==> start
+117 ==> timing
+118 ==> dn-staticdown.qbox.me
+119 ==> link
+120 ==> by
+121 ==> webgl vertex shader low float precision:
+122 ==> oa
+123 ==> 300px
+124 ==> webgl max render buffer size:
+125 ==> Ne
+126 ==> ven
+127 ==> localStorageEnabled
+128 ==> em
+129 ==> suspendedStart
+130 ==> ba
+131 ==> .panel_success_mask
+132 ==> pointer
+133 ==> /static
+134 ==> responseText
+135 ==> url_ajax
+136 ==> &
+137 ==> MAX_VERTEX_ATTRIBS
+138 ==> unload
+139 ==> f
+140 ==> https://
+141 ==> /get.php
+142 ==> getBoundingClientRect
+143 ==> attachShader
+144 ==> Pe
+145 ==> tb
+146 ==> COLOR_BUFFER_BIT
+147 ==> wd
+148 ==> server_forbidden
+149 ==> ct
+150 ==> domContentLoadedEventStart
+151 ==> enableVertexAttribArray
+152 ==> rd
+153 ==> gt_w_done_
+154 ==> Argument must be an object, or null
+155 ==> doPublic
+156 ==> mmmmmmmmmmlli
+157 ==> reload
+158 ==> onLine
+159 ==> Ta
+160 ==> result
+161 ==> PENDING
+162 ==> IMG
+163 ==> RTCPeerConnection
+164 ==> v8.6.1 Geetest Inc.
+165 ==> .goto_cancel
+166 ==> validate
+167 ==> Jd
+168 ==> 100%
+169 ==> XDomainRequest
+170 ==> availLeft
+171 ==> 传给bindOn接口的参数有误：只接受id选择器和DOM元素，并且需保证其存在于页面中
+172 ==> linkProgram
+173 ==> 00C1E3934D1614465B33053E7F48EE4EC87B14B95EF88947713D25EECBFF7E74C7977D02DC1D9451F79DD5D1C10C29ACB6A9B4D6FB7D0A0279B6719E1772565F09AF627715919221AEF91899CAE08C0D686D748B20A3603BE2318CA6BC2B59706592A9219D0BF05C9F65023A21D2330807252AE0066D59CEEFA5F2748EA80BAB81
+174 ==> af
+175 ==> shaderSource
+176 ==> error_104
+177 ==> pow_starting
+178 ==> screenLeft
+179 ==> webgl fragment shader low int precision:
+180 ==> Wd
+181 ==> webgl vertex shader high float precision:
+182 ==> iframe
+183 ==> pop
+184 ==> afterLoc
+185 ==> browserLanguages
+186 ==> $
+187 ==> topfhvc
+188 ==> VENDOR
+189 ==> webgl max texture size:
+190 ==> no
+191 ==> 1.5.2
+192 ==> |jordan
+193 ==> tw
+194 ==> qa
+195 ==> getSupportedExtensions
+196 ==> getParameter
+197 ==> column
+198 ==> slide
+199 ==> nightmare
+200 ==> LUCIDA GRANDE
+201 ==> $a
+202 ==> ip
+203 ==> onaudioprocess
+204 ==> Andale Mono
+205 ==> , 
+206 ==> webgl fragment shader low float precision rangeMax:
+207 ==> 智能检测中
+208 ==> mouse
+209 ==> createTextNode
+210 ==> method
+211 ==> domainLookupStart
+212 ==> removeChild
+213 ==> ff
+214 ==> screenWidth
+215 ==> squareTo
+216 ==> AC
+217 ==> MSPointer
+218 ==> Tahoma
+219 ==> error
+220 ==> focus
+221 ==> msFirstPaint
+222 ==> webgl max vertex uniform vectors:
+223 ==> match
+224 ==> Hf
+225 ==> contentWindow
+226 ==> multiplyTo
+227 ==> webgl vertex shader medium int precision rangeMin:
+228 ==> createScriptProcessor
+229 ==> offsetUniform
+230 ==> puppet
+231 ==> .panel_success_icon
+232 ==> toUpperCase
+233 ==> fromNumber
+234 ==> Rd
+235 ==> webgl renderer:
+236 ==> popup
+237 ==> isEmpty
+238 ==> ww
+239 ==> getOwnPropertyDescriptor
+240 ==> clientY
+241 ==> hk
+242 ==> webgl alpha bits:
+243 ==> hc
+244 ==> webgl fragment shader low int precision rangeMax:
+245 ==> -tw
+246 ==> 网络不给力
+247 ==> divRemTo
+248 ==> GREEN_BITS
+249 ==> __proto__
+250 ==> BlockCipher
+251 ==> words
+252 ==> wind
+253 ==> Bb
+254 ==> initGeetest里面的gt或者challenge参数缺少: 请检查初始化参数
+255 ==> .panel_success_box
+256 ==> .ie_radar
+257 ==> error_content
+258 ==>  
+259 ==> MAX_VARYING_VECTORS
+260 ==> Lc
+261 ==> rgba(102, 204, 0, 0.7)
+262 ==> compute_1
+263 ==> error_106
+264 ==> performance
+265 ==> showBack
+266 ==> onSuccess
+267 ==> encrypt
+268 ==> xf
+269 ==> screenTop
+270 ==> copyTo
+271 ==> webgl vertex shader medium int precision:
+272 ==> Qe
+273 ==> href
+274 ==> fallback
+275 ==> img
+276 ==> STYLE
+277 ==> webgl vertex shader low int precision rangeMin:
+278 ==> requestStart
+279 ==> panelshowslide
+280 ==> sessionStorage
+281 ==> slide3
+282 ==> evenodd
+283 ==> toDataURL
+284 ==> config_lack
+285 ==> a.success_logo
+286 ==> zh
+287 ==> gt_w_error_
+288 ==> ',
+289 ==> .holder.ie.
+290 ==> rShiftTo
+291 ==> #f60
+292 ==> inline
+293 ==> 配置参数gt有误：请检查初始化时传入的配置参数gt（对应申请时的ID）
+294 ==> ci
+295 ==> //
+296 ==> TABLE
+297 ==> A
+298 ==> parseInt
+299 ==> Bookman Old Style
+300 ==> 传给各回调的参数不是函数类型：请传入函数类型参数
+301 ==> .panel_success_pie
+302 ==> pow_progress
+303 ==> .fullpage_ghost
+304 ==> vc
+305 ==> mozTransition
+306 ==> Palatino Linotype
+307 ==> fileName
+308 ==> radar_click
+309 ==> screenHeight
+310 ==> .panel_footer_logo
+311 ==> .fallback
+312 ==> lp
+313 ==> replace
+314 ==> .success_correct
+315 ==> j
+316 ==> platform
+317 ==> error_102
+318 ==> hide
+319 ==> GeetestError: 
+320 ==> Md
+321 ==> webkitTransition
+322 ==> completion
+323 ==> getPrototypeOf
+324 ==> .goto_content_tip
+325 ==> m
+326 ==> webgl vertex shader medium float precision rangeMin:
+327 ==> documentElement
+328 ==> err001
+329 ==> DEPTH_TEST
+330 ==> Bc
+331 ==> Microsoft Sans Serif
+332 ==> javaEnabled
+333 ==> onreadystatechange
+334 ==> SOURCE
+335 ==> 验证的js地址不存在
+336 ==> FRAGMENT_SHADER
+337 ==> ye
+338 ==> Cipher
+339 ==> sent
+340 ==> n
+341 ==> gg
+342 ==> right
+343 ==> fillText
+344 ==> mt2
+345 ==> HIGH_FLOAT
+346 ==> slice
+347 ==> tagName
+348 ==> .success_filter
+349 ==> stun:stun.l.google.com:19302
+350 ==> Wingdings
+351 ==> Od
+352 ==> MSPointerMove
+353 ==> Mb
+354 ==> span.wait_dot.dot_1
+355 ==> filter
+356 ==> MAX_CUBE_MAP_TEXTURE_SIZE
+357 ==> itemSize
+358 ==> error_103
+359 ==> $cdc_as
+360 ==> height
+361 ==> WEBKIT_EXT_texture_filter_anisotropic
+362 ==> monospace
+363 ==> xa
+364 ==> round
+365 ==> timezone
+366 ==> .panel_success_filter
+367 ==> Segoe UI Light
+368 ==> onmousemove
+369 ==> input.validate
+370 ==> GeneratorFunction
+371 ==> me
+372 ==> /reset.php
+373 ==> gt_w_progress_
+374 ==> init
+375 ==> if
+376 ==> Tf
+377 ==> .logo
+378 ==> getShaderPrecisionFormat
+379 ==> ren
+380 ==> mc
+381 ==> ;
+382 ==> number
+383 ==> vip_content
+384 ==> connect
+385 ==> lastTime
+386 ==> bufferData
+387 ==> ma
+388 ==> qb
+389 ==> 8.6.1
+390 ==> ve
+391 ==> onerror
+392 ==> hasOwnProperty
+393 ==> stringify
+394 ==> 取消
+395 ==> toRadix
+396 ==> navigator
+397 ==> am
+398 ==> Courier New
+399 ==> lShiftTo
+400 ==> shell
+401 ==> ic
+402 ==> reversal
+403 ==> pe
+404 ==> static_servers
+405 ==> continue
+406 ==> useProgram
+407 ==> We
+408 ==> 配置錯誤
+409 ==> fromRadix
+410 ==> ":
+411 ==> VERSION
+412 ==> getExtension
+413 ==> div
+414 ==> iw
+415 ==> webgl fragment shader high float precision rangeMax:
+416 ==> ne
+417 ==> setAttribute
+418 ==> .success_radar_tip
+419 ==> availTop
+420 ==> stylesheet
+421 ==> .wait
+422 ==> mph
+423 ==> fontFamily
+424 ==> hf
+425 ==> Gd
+426 ==> input.challenge
+427 ==> display
+428 ==> indexedDBEnabled
+429 ==> panelshowclick
+430 ==> padding
+431 ==> createOffer
+432 ==> body
+433 ==> ad
+434 ==> ontimeout
+435 ==> RED_BITS
+436 ==> toLowerCase
+437 ==> K
+438 ==> sc
+439 ==> rf
+440 ==> MS PGothic
+441 ==> dg
+442 ==> extensions:
+443 ==> margin-top
+444 ==> msMaxTouchPoints
+445 ==> Ue
+446 ==> ready
+447 ==> Fa
+448 ==> indexOf
+449 ==> mouseEvent
+450 ==> arc
+451 ==> .radar_btn
+452 ==> dispatchEvent
+453 ==> qf
+454 ==> substring
+455 ==> .ring
+456 ==> maxTouchPoints
+457 ==> blockSize
+458 ==> algo
+459 ==> FV
+460 ==> getComputedStyle
+461 ==> Latin1
+462 ==> api_server
+463 ==> valueOf
+464 ==> canvas3DFP
+465 ==> MAX_VERTEX_UNIFORM_VECTORS
+466 ==> displayName
+467 ==> Ka
+468 ==> tryLoc
+469 ==> clearColor
+470 ==> Comic Sans
+471 ==> #069
+472 ==> vertexPosAttrib
+473 ==> confirm
+474 ==> illegal catch attempt
+475 ==> beta
+476 ==> vip_key
+477 ==> ia
+478 ==> blur
+479 ==> sa
+480 ==> gf
+481 ==> oe
+482 ==> leave
+483 ==> POST
+484 ==> webgl fragment shader medium float precision rangeMax:
+485 ==> wa
+486 ==> .holder.
+487 ==> bg
+488 ==> fromCharCode
+489 ==> .panel_loading_content
+490 ==> loading_content
+491 ==> coeff
+492 ==> 皮肤加载失败：1.请保持网络畅通；2.请联系极验官网客服
+493 ==> beforeStart
+494 ==> @@iterator
+495 ==> use strict
+496 ==> Rc
+497 ==> MS Outlook
+498 ==> rgb(255,255,0)
+499 ==> rgb(0,255,255)
+500 ==> 页面出现错误啦！要继续操作，请刷新此页面。
+501 ==> Nc
+502 ==> iterator
+503 ==> Trebuchet MS
+504 ==> text/plain;charset=utf-8
+505 ==> webgl red bits:
+506 ==> parentNode
+507 ==> 90%
+508 ==> d
+509 ==> Wingdings 2
+510 ==> powworkerdone
+511 ==> move
+512 ==> -cn
+513 ==> MAX_VERTEX_TEXTURE_IMAGE_UNITS
+514 ==> api_bindForm
+515 ==> c
+516 ==> re
+517 ==> webgl shading language version:
+518 ==> done
+519 ==> Arial Hebrew
+520 ==> S
+521 ==> F1
+522 ==> complete
+523 ==> Ve
+524 ==> MAX_FRAGMENT_UNIFORM_VECTORS
+525 ==> pu
+526 ==> span.radar_tip_content
+527 ==> webgl fragment shader medium float precision rangeMin:
+528 ==> getUniformLocation
+529 ==> theme_version
+530 ==> yf
+531 ==> /static/html
+532 ==> ib
+533 ==> Ab
+534 ==> pc
+535 ==> vd
+536 ==> ARRAY_BUFFER
+537 ==> screenAvailLeft
+538 ==> Le
+539 ==> mod
+540 ==> SECTION
+541 ==> Arial Rounded MT Bold
+542 ==> webgl aliased point size range:
+543 ==> Segoe Script
+544 ==> top
+545 ==> getAttribLocation
+546 ==> .panel_footer
+547 ==> onError
+548 ==> MS Serif
+549 ==> ASIDE
+550 ==> fb
+551 ==> logo
+552 ==> /static/
+553 ==> precision
+554 ==> PI
+555 ==> start_compute
+556 ==> wait_compute
+557 ==> Arial Black
+558 ==> 服务端forbidden： 请联系极验官网客服
+559 ==> sigBytes
+560 ==> gt_w_start_
+561 ==> 
+562 ==> ni
+563 ==> Segoe UI
+564 ==> createDataChannel
+565 ==> Cambria Math
+566 ==> Vb
+567 ==> querySelector
+568 ==> onChangeCaptcha
+569 ==> setPrototypeOf
+570 ==> languages
+571 ==> v
+572 ==> BASE
+573 ==> .panel_error_icon
+574 ==> gamma
+575 ==> webgl max fragment uniform vectors:
+576 ==> yd
+577 ==> ae
+578 ==> Sc
+579 ==> H
+580 ==> bitLength
+581 ==> touchEvent
+582 ==> Configuration Error
+583 ==> REJECTED
+584 ==> MAX_TEXTURE_IMAGE_UNITS
+585 ==> webgl vertex shader high float precision rangeMin:
+586 ==> Gb
+587 ==> 传给appendTo接口的参数有误：只接受id选择器和DOM元素，并且需保证其存在于页面中
+588 ==> exports
+589 ==> ALIASED_LINE_WIDTH_RANGE
+590 ==> 10001
+591 ==> webgl max combined texture image units:
+592 ==> prototype
+593 ==> antialias
+594 ==> calculate
+595 ==> staticservers
+596 ==> ur
+597 ==> focusin
+598 ==> 2d
+599 ==> delegate
+600 ==> Ee
+601 ==> skin_path
+602 ==> destroy
+603 ==> Wf
+604 ==> executing
+605 ==> Lucida Console
+606 ==> ph
+607 ==> Ia
+608 ==> Arial Narrow
+609 ==> qe
+610 ==> Ma
+611 ==> supportWorker
+612 ==> success
+613 ==> INPUT
+614 ==> bottom
+615 ==> value
+616 ==> drShiftTo
+617 ==> error_112
+618 ==> .validate
+619 ==> Rf
+620 ==> Impact
+621 ==> fullpage
+622 ==> .success_btn
+623 ==> domInteractive
+624 ==> offsetParent
+625 ==> .panel_footer_copyright
+626 ==> canvas
+627 ==> head
+628 ==> .goto_wrap
+629 ==> fontSize
+630 ==> clientTop
+631 ==> .other_offline.offline
+632 ==> insertBefore
+633 ==> goto_cancel
+634 ==> call
+635 ==> mpl
+636 ==> geetestPlugin
+637 ==> Century
+638 ==> $d
+639 ==> Pa
+640 ==> .other_offline.panel_offline
+641 ==> line
+642 ==> 点击按钮进行验证
+643 ==> pure
+644 ==> Times New Roman PS
+645 ==> Ef
+646 ==> createAnalyser
+647 ==> UTF-8
+648 ==> geetestEvent
+649 ==> test
+650 ==> finallyLoc
+651 ==> cp
+652 ==> G
+653 ==> Yd
+654 ==> clientLeft
+655 ==> te
+656 ==> geetest_challenge
+657 ==> challenge
+658 ==> createOscillator
+659 ==> orientation
+660 ==> Gc
+661 ==> Bitstream Vera Sans Mono
+662 ==> js_not_exist
+663 ==> webgl depth bits:
+664 ==> domComplete
+665 ==> toStringTag
+666 ==> Me
+667 ==> SwiftShader
+668 ==> BUTTON
+669 ==> LI
+670 ==> enqueue
+671 ==> border
+672 ==> /reset.php请求报错：1.请保持网络畅通；2.请联系极验官网客服
+673 ==> webgl vertex shader high float precision rangeMax:
+674 ==> multi_line
+675 ==> readyCb
+676 ==> _nig
+677 ==> i18n_labels
+678 ==> sb
+679 ==> Uf
+680 ==> Xb
+681 ==> worker_path
+682 ==> bd
+683 ==> charCodeAt
+684 ==> keydown
+685 ==> createProgram
+686 ==> zf
+687 ==> 
+
+688 ==> createShader
+689 ==> error_110
+690 ==> VERTEX_SHADER
+691 ==> .panel_success_correct
+692 ==> keys
+693 ==> rotate(
+694 ==> msTransition
+695 ==> jb
+696 ==> .panel_ghost
+697 ==> next
+698 ==> getValidate
+699 ==> U
+700 ==> localStorage
+701 ==> push
+702 ==> WEBGL_debug_renderer_info
+703 ==> ea
+704 ==> HTMLLength
+705 ==> Lucida Bright
+706 ==> .goto_content
+707 ==> Times
+708 ==> swfobject
+709 ==> _
+710 ==> userAgent
+711 ==> detect
+712 ==> margin-left
+713 ==> loadEventStart
+714 ==> Verdana
+715 ==> log
+716 ==> sandbox
+717 ==> DEPTH_BITS
+718 ==> iframeurl
+719 ==> src
+720 ==> geetest_
+721 ==> function
+722 ==> pointermove
+723 ==> LABEL
+724 ==> loaded
+725 ==> textContent
+726 ==> Bd
+727 ==> processBlock
+728 ==> JSON
+729 ==> Ie
+730 ==> Pkcs7
+731 ==> jsFonts
+732 ==> .goto
+733 ==> mf
+734 ==> abs
+735 ==> Monotype Corsiva
+736 ==> Netscape
+737 ==> vertexAttribPointer
+738 ==> error_114
+739 ==> finalize
+740 ==> yes
+741 ==> .status
+742 ==> all
+743 ==> webgl vertex shader high int precision:
+744 ==> ONE
+745 ==> ar
+746 ==> SPAN
+747 ==> .slide_icon
+748 ==> 由极验提供技术支持
+749 ==> homepage
+750 ==> Network Error
+751 ==> h
+752 ==> getRandomValues
+753 ==> pointerdown
+754 ==> 网络故障
+755 ==> format
+756 ==> forEach
+757 ==> compileShader
+758 ==> resize
+759 ==> radar_success
+760 ==> uniformOffset
+761 ==> 通过验证
+762 ==> navigationStart
+763 ==> Cf
+764 ==> .panel_loading_icon
+765 ==> 配置错误
+766 ==> nt
+767 ==> De
+768 ==> 前往
+769 ==> webgl vertex shader high int precision rangeMin:
+770 ==> 18pt Arial
+771 ==> Zc
+772 ==> errorCb
+773 ==> dequeue
+774 ==> protocol
+775 ==> [object Generator]
+776 ==> suspendedYield
+777 ==> Of
+778 ==> play
+779 ==> DEPTH_BUFFER_BIT
+780 ==> ob
+781 ==> removeAttribute
+782 ==> tryEntries
+783 ==> .success_radar_tip_content
+784 ==> screenAvailTop
+785 ==> be
+786 ==> enter
+787 ==> description
+788 ==> .panel_error_title
+789 ==> Ze
+790 ==> click
+791 ==> OBJECT
+792 ==> .success_logo
+793 ==> tm
+794 ==> callPhantom
+795 ==> callP
+796 ==> SELECT
+797 ==> CODE
+798 ==> candidate
+799 ==> Network failure
+800 ==> qd
+801 ==> join
+802 ==> webgl aliased line width range:
+803 ==> cfg
+804 ==> um
+805 ==> Xe
+806 ==> code
+807 ==> .challenge
+808 ==> IFRAME
+809 ==> xd
+810 ==> Cambria
+811 ==> id
+812 ==> enc
+813 ==> offline
+814 ==> left
+815 ==> none
+816 ==> _blank
+817 ==> Android
+818 ==> Yc
+819 ==> ef
+820 ==> he
+821 ==> /gt-dist/html
+822 ==> Microsoft Internet Explorer
+823 ==> .v
+824 ==> Wingdings 3
+825 ==> geetest_data_share_plugin
+826 ==> 9.0.0
+827 ==> splice
+828 ==> ag
+829 ==> ceil
+830 ==> w
+831 ==> ele
+832 ==> F
+833 ==> ]
+834 ==> voice
+835 ==> Segoe UI Symbol
+836 ==> wrap
+837 ==> destination
+838 ==> CipherParams
+839 ==> ca
+840 ==> data
+841 ==> [object Array]
+842 ==> object
+843 ==> detachEvent
+844 ==> pointerup
+845 ==> TRIANGLE_STRIP
+846 ==> apply
+847 ==> webgl max varying vectors:
+848 ==> 0123456789abcdefghijklmnopqrstuvwxyz
+849 ==> /static/js/worker.
+850 ==> createEncryptor
+851 ==> url_skin
+852 ==> toLocaleLowerCase
+853 ==> .panel_success
+854 ==> redirectStart
+855 ==> split
+856 ==> jQuery
+857 ==> Lucida Fax
+858 ==> Content-Type
+859 ==> tc
+860 ==> /ajax.php请求报错：1.请保持网络畅通；2.请联系极验官网客服
+861 ==> .panel_error_content
+862 ==> position
+863 ==> domLoading
+864 ==> DM
+865 ==> "
+866 ==> return
+867 ==> .bg
+868 ==> Se
+869 ==> api.geetest.com
+870 ==> 正在加载验证
+871 ==> try statement without catch or finally
+872 ==> sourceURL
+873 ==> FLOAT
+874 ==> Ke
+875 ==> .panel_success_title
+876 ==> charAt
+877 ==> UL
+878 ==> MAX_COMBINED_TEXTURE_IMAGE_UNITS
+879 ==> el
+880 ==> _b
+881 ==> 验证的js地址无法加载
+882 ==> innerHTML
+883 ==> a.goto_confirm
+884 ==> nf
+885 ==> k
+886 ==> beeline
+887 ==> mediaDevices
+888 ==> debugConfig
+889 ==> Hd
+890 ==> Af
+891 ==> -
+892 ==> ?
+893 ==> Times New Roman
+894 ==> transition
+895 ==> outerHTML
+896 ==> webgl fragment shader high int precision rangeMin:
+897 ==> clientX
+898 ==> createGain
+899 ==> webkitAudioContext
+900 ==> canvas fp:
+901 ==> innerHeight
+902 ==> anonymous
+903 ==> mb
+904 ==> mousedown
+905 ==> build
+906 ==> getTimezoneOffset
+907 ==> 请完成验证
+908 ==> browserLanguage
+909 ==> concat
+910 ==> DB
+911 ==> gt_w_stop_
+912 ==> sdp
+913 ==> throw
+914 ==> ce
+915 ==> Je
+916 ==> rangeMin
+917 ==> undefined
+918 ==> Lucida Sans Typewriter
+919 ==> _p
+920 ==> |
+921 ==> mulTo
+922 ==> CBC
+923 ==> Ic
+924 ==> Ld
+925 ==> currentTime
+926 ==> reversal_success
+927 ==> _e
+928 ==> SCRIPT
+929 ==> onReady
+930 ==> catchLoc
+931 ==> Geneva
+932 ==> overflow
+933 ==> error_105
+934 ==> touchend
+935 ==> precision mediump float;varying vec2 varyinTexCoordinate;void main() {gl_FragColor=vec4(varyinTexCoordinate,0,1);}
+936 ==> https
+937 ==> Calibri
+938 ==> api_appendTo
+939 ==> .h
+940 ==> childNodes
+941 ==> gt_w_ready_
+942 ==> loadCb
+943 ==> Na
+944 ==> scrollLeft
+945 ==> webgl vertex shader low float precision rangeMax:
+946 ==> W
+947 ==> hardwareConcurrency
+948 ==> .success_pie
+949 ==> ac
+950 ==> od
+951 ==> Dd
+952 ==> random
+953 ==> 配置参数area有误：只接受id选择器和DOM元素，并且需保证其存在于页面中
+954 ==> webgl max vertex attribs:
+955 ==> null
+956 ==> completed
+957 ==> ud
+958 ==> pow
+959 ==> Sd
+960 ==> webgl vertex shader high int precision rangeMax:
+961 ==> ie6panelshowclick
+962 ==> stop
+963 ==> Lf
+964 ==> span.wait_dot.dot_2
+965 ==> pencil
+966 ==> radar_error
+967 ==> webgl fragment shader low float precision:
+968 ==> normal
+969 ==> onicecandidate
+970 ==> .panel_box
+971 ==> colorDepth
+972 ==> .fullpage_pointer
+973 ==> ()*,-./0123456789:?@ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz~
+974 ==> Courier
+975 ==> message
+976 ==> width
+977 ==> MEDIUM_INT
+978 ==> mouseup
+979 ==> _https
+980 ==> alpha
+981 ==> outerWidth
+982 ==> res
+983 ==> iv
+984 ==> reset
+985 ==> cpuClass
+986 ==> length
+987 ==> Wc
+988 ==> bf
+989 ==> '
+990 ==> drawArrays
+991 ==> sessionStorageEnabled
+992 ==> /get.php请求报错：1.请保持网络畅通；2.检查初始化时传入的配置参数gt和challenge
+993 ==> enable
+994 ==> webgl fragment shader high int precision:
+995 ==> webgl fragment shader high int precision rangeMax:
+996 ==> cf
+997 ==> modPowInt
+998 ==> dc
+999 ==> si
+1000 ==> span.wait_dot.dot_3
+1001 ==> nodeType
+1002 ==> then
+1003 ==> q
+1004 ==> Lucida Handwriting
+1005 ==> DIV
+1006 ==> Bf
+1007 ==> Re
+1008 ==> a
+1009 ==> .success_icon
+1010 ==> hasFlashPlayerVersion
+1011 ==> attachEvent
+1012 ==> .panel
+1013 ==> visible
+1014 ==> td
+1015 ==> max
+1016 ==> attribute vec2 attrVertex;varying vec2 varyinTexCoordinate;uniform vec2 uniformOffset;void main(){varyinTexCoordinate=attrVertex+uniformOffset;gl_Position=vec4(attrVertex,0,1);}
+1017 ==> XMLHttpRequest
+1018 ==> __g__
+1019 ==> Pf
+1020 ==> arg
+1021 ==> UNMASKED_RENDERER_WEBGL
+1022 ==> clamp
+1023 ==> PICTURE
+1024 ==> Utf8
+1025 ==> ciphertext
+1026 ==> Generator is already running
+1027 ==> kc
+1028 ==> target
+1029 ==> webkitRTCPeerConnection
+1030 ==> webgl vertex shader medium float precision rangeMax:
+1031 ==> .fullpage_click
+1032 ==> geetest_validate
+1033 ==> \"
+1034 ==> secureConnectionStart
+1035 ==> nd
+1036 ==> .goto_confirm
+1037 ==> convert
+1038 ==> redirectEnd
+1039 ==> ALIASED_POINT_SIZE_RANGE
+1040 ==> .radar_tip_content
+1041 ==> OL
+1042 ==> HIGH_INT
+1043 ==> kb
+1044 ==> .fullpage_pointer_in
+1045 ==> Arial
+1046 ==> pageYOffset
+1047 ==> Monaco
+1048 ==> zb
+1049 ==> Lucida Calligraphy
+1050 ==> availHeight
+1051 ==> parse
+1052 ==> triangle
+1053 ==> ELEMENT_NODE
+1054 ==> {
+1055 ==> bigCombination
+1056 ==> la
+1057 ==> pow_wait_once
+1058 ==> timestamp
+1059 ==> input.seccode
+1060 ==> isArray
+1061 ==> offsetTop
+1062 ==> nextBytes
+1063 ==> canvas winding:
+1064 ==> rangeMax
+1065 ==> cloneNode
+1066 ==> appendChild
+1067 ==> radar_click_ready
+1068 ==> fromInt
+1069 ==> ie
+1070 ==> Book Antiqua
+1071 ==> timeout
+1072 ==> .js
+1073 ==> close
+1074 ==> B
+1075 ==> offsetHeight
+1076 ==> product
+1077 ==> postMessage
+1078 ==> create
+1079 ==> Palatino
+1080 ==> Consolas
+1081 ==> webgl vertex shader low float precision rangeMin:
+1082 ==> EXT_texture_filter_anisotropic
+1083 ==> sans-serif
+1084 ==> aria-label
+1085 ==> webgl fragment shader medium int precision:
+1086 ==> hb
+1087 ==> touch
+1088 ==> Kd
+1089 ==> exec
+1090 ==> vendor
+1091 ==> MS Gothic
+1092 ==> removeEventListener
+1093 ==> api_bindButton
+1094 ==> error_title
+1095 ==> .seccode
+1096 ==> fillRect
+1097 ==> /iframe.1.0.5.html?w=
+1098 ==> MAX_VIEWPORT_DIMS
+1099 ==> custom
+1100 ==> back
+1101 ==> type
+1102 ==> !!
+1103 ==> err002
+1104 ==> .btn
+1105 ==> prev
+1106 ==> responseStart
+1107 ==> 验证成功
+1108 ==> devicePixelRatio
+1109 ==> &mid=
+1110 ==> crypto
+1111 ==> Cd
+1112 ==> mp
+1113 ==> kf
+1114 ==> unloadEventEnd
+1115 ==> Cwm fjordbank glyphs vext quiz, 😃
+1116 ==> addEventListener
+1117 ==> innerText
+1118 ==> Ye
+1119 ==> webgl max texture image units:
+1120 ==> rp
+1121 ==> md
+1122 ==> C
+1123 ==> -9999px
+1124 ==> error_code
+1125 ==> stopPropagation
+1126 ==> preventDefault
+1127 ==> posY
+1128 ==> nodeName
+1129 ==> Pd
+1130 ==> 是否前往验证服务Geetest官网？
+1131 ==> *
+1132 ==> atan
+1133 ==> dmq1
+1134 ==> offsetLeft
+1135 ==> s
+1136 ==> Xd
+1137 ==> sort
+1138 ==> pageXOffset
+1139 ==> css
+1140 ==> .panel_error_code
+1141 ==> click_error
+1142 ==> send
+1143 ==> fGpZzVnYeGgcwQ
+1144 ==> renderer
+1145 ==> origin_
+1146 ==> ALPHA_BITS
+1147 ==> script
+1148 ==> subTo
+1149 ==> webgl antialiasing:
+1150 ==> catch
+1151 ==> break
+1152 ==> ZLmcfl_
+1153 ==> mark
+1154 ==> revert
+1155 ==> end
+1156 ==> connectStart
+1157 ==> string
+1158 ==> webgl vertex shader medium int precision rangeMax:
+1159 ==> Number
+1160 ==> ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789()
+1161 ==> radar_click_hide
+1162 ==> 1
+1163 ==> 智能验证检测中
+1164 ==> mixIn
+1165 ==> Ya
+1166 ==> de
+1167 ==> D
+1168 ==> Segoe UI Semibold
+1169 ==> vip_answer
+1170 ==> apiserver
+1171 ==> Df
+1172 ==> selenium
+1173 ==> exp
+1174 ==> dispatchException
+1175 ==> language
+1176 ==> documentMode
+1177 ==> fillStyle
+1178 ==> userLanguage
+1179 ==> input
+1180 ==> .success_mask
+1181 ==> connectEnd
+1182 ==> http://
+1183 ==> MAX_TEXTURE_SIZE
+1184 ==> appName
+1185 ==> Kc
+1186 ==> document
+1187 ==> start_detect
+1188 ==> sf
+1189 ==> .cross
+1190 ==> powclient
+1191 ==> N
+1192 ==> config
+1193 ==> Nd
+1194 ==> Fc
+1195 ==> floor
+1196 ==> step
+1197 ==> SHADING_LANGUAGE_VERSION
+1198 ==> Ad
+1199 ==> webgl fragment shader low int precision rangeMin:
+1200 ==> fa
+1201 ==> 11pt Arial
+1202 ==> internalip
+1203 ==> pause
+1204 ==> fetchStart
+1205 ==> 语音文件加载失败：1.请保持网络畅通；2.请联系极验官网客服
+1206 ==> error_108
+1207 ==> url_reset
+1208 ==> changedTouches
+1209 ==> /
+1210 ==> x
+1211 ==> vf
+1212 ==> webgl blue bits:
+1213 ==> tf
+1214 ==> down
+1215 ==> MYRIAD
+1216 ==> .fullpage_click_box
+1217 ==> Garamond
+1218 ==> createBuffer
+1219 ==> Td
+1220 ==> .radar_tip
+1221 ==> span.radar_error_code
+1222 ==> onBack
+1223 ==> shake
+1224 ==> negate
+1225 ==> webgl fragment shader low float precision rangeMin:
+1226 ==> 72px
+1227 ==> Ce
+1228 ==> Accept
+1229 ==> filename
+1230 ==> M
+1231 ==> Dc
+1232 ==> PRE
+1233 ==> Qf
+1234 ==> fn
+1235 ==> screenAvailWidth
+1236 ==> forbidden
+1237 ==> Segoe Print
+1238 ==> MYRIAD PRO
+1239 ==> audio
+1240 ==> beforeunload
+1241 ==> lang
+1242 ==> cg
+1243 ==> error_21
+1244 ==> 网络超时
+1245 ==> clear
+1246 ==> .small
+1247 ==> webgl green bits:
+1248 ==> js_unload
+1249 ==> uniform2f
+1250 ==> values
+1251 ==> span
+1252 ==> domContentLoadedEventEnd
+1253 ==> DV
+1254 ==> .dot
+1255 ==> AUDIO
+1256 ==> getAttribute
+1257 ==> Sb
+1258 ==> Century Schoolbook
+1259 ==> nextDebugConfig
+1260 ==> BLUE_BITS
+1261 ==> frequencyBinCount
+1262 ==> /ajax.php
+1263 ==> beginPath
+1264 ==> .panel_loading
+1265 ==> 0
+1266 ==> MEDIUM_FLOAT
+1267 ==> P
+1268 ==> map
+1269 ==> F2
+1270 ==> Message too long for RSA
+1271 ==> getElementById
+1272 ==> wb
+1273 ==> lib
+1274 ==> RESOLVED
+1275 ==> open
+1276 ==> Gf
+1277 ==> user_error
+1278 ==> fp
+1279 ==> span.reset_tip_content
+1280 ==> webgl vertex shader low int precision:
+1281 ==> cancelable
+1282 ==> cc
+1283 ==> Hb
+1284 ==> .panel_success_show
+1285 ==> fromString
+1286 ==> ec
+1287 ==> each
+1288 ==> success_animate
+1289 ==> .fullpage_click_wrap
+1290 ==> MOZ_EXT_texture_filter_anisotropic
+1291 ==> uf
+1292 ==> Mc
+1293 ==> BlockCipherMode
+1294 ==> getPropertyValue
+1295 ==> flashEnabled
+1296 ==> CPUClass
+1297 ==> .form
+1298 ==> goto_homepage
+1299 ==> error_109
+1300 ==> zh-tw
+1301 ==> root
+1302 ==> js
+1303 ==> AES
+1304 ==> Lb
+1305 ==> doNotTrack
+1306 ==> style
+1307 ==> Hc
+1308 ==> bindBuffer
+1309 ==> netEnabled
+1310 ==> setRequestHeader
+1311 ==> /refresh.php请求报错：1.请保持网络畅通；2.刷新次数本身有限制（10次以内），超过限制请刷新整个页面再试
+1312 ==> canvas2DFP
+1313 ==> Mf
+1314 ==> $c
+1315 ==> i
+1316 ==> ek
+1317 ==> t
+1318 ==> location
+1319 ==> $b
+1320 ==> encryptBlock
+1321 ==> getContextAttributes
+1322 ==> panelshowbeeline
+1323 ==> .panel_next
+1324 ==> AudioContext
+1325 ==> attrVertex
+1326 ==> htma
+1327 ==> getContext
+1328 ==> vip_order
+1329 ==> isPointInPath
+1330 ==> $e
+1331 ==> Xf
+1332 ==> @@toStringTag
+1333 ==> availWidth
+1334 ==> zd
+1335 ==> vb
+1336 ==> setLocalDescription
+1337 ==> .ghost_success
+1338 ==> _c
+1339 ==> webdriver
+1340 ==> VIDEO
+1341 ==> Id
+1342 ==> djflasu
+1343 ==> pf
+1344 ==> zh-cn
+1345 ==> copyright
+1346 ==> MS Sans Serif
+1347 ==> not_compatible
+1348 ==> getFloatFrequencyData
+1349 ==> getElementsByTagName
+1350 ==> race
+1351 ==> SerializableCipher
+1352 ==> Helvetica
+1353 ==> Be
+1354 ==> returnValue
+1355 ==> deviceorientation
+1356 ==> Geetest
+1357 ==> host
+1358 ==> 0000000000000000
+1359 ==> reduce
+1360 ==> NAV
+1361 ==> webgl max vertex texture image units:
+1362 ==> lb
+1363 ==> webgl vertex shader medium float precision:
+1364 ==> Lucida Sans Unicode
+1365 ==> na
+1366 ==> scroll
+1367 ==> .sector
+1368 ==> webgl vertex shader low int precision rangeMax:
+1369 ==> .radar_error_code
+1370 ==> error_107
+1371 ==> currentStyle
+1372 ==> constructor
+1373 ==> substr
+1374 ==> show
+1375 ==> touchstart
+1376 ==> we
+1377 ==> isEven
+1378 ==> invDigit
+1379 ==> globalCompositeOperation
+1380 ==> geetest_seccode
+1381 ==> pad
+1382 ==> RENDERER
+1383 ==> px
+1384 ==> CANVAS
+1385 ==> webgl fragment shader medium int precision rangeMin:
+1386 ==> screen
+1387 ==> eg
+1388 ==> Lucida Sans
+1389 ==> compatMode
+1390 ==> y
+1391 ==> mozRTCPeerConnection
+1392 ==> If
+1393 ==> Comic Sans MS
+1394 ==> score
+1395 ==> setPublic
+1396 ==> Helvetica Neue
+1397 ==> webgl stencil bits:
+1398 ==> nb
+1399 ==> offsetWidth
+1400 ==> innerWidth
+1401 ==> V
+1402 ==> lc
+1403 ==> posX
+1404 ==> error_111
+1405 ==> extend
+1406 ==> $f
+1407 ==> }
+1408 ==> outerHeight
+1409 ==> http://www.geetest.com/first_page
+1410 ==> passtime
+1411 ==> webgl fragment shader high float precision:
+1412 ==> vertexPosArray
+1413 ==> webgl version:
+1414 ==> get
+1415 ==> ga
+1416 ==> 
+1417 ==> #wf
+1418 ==> Za
+1419 ==> error_101
+1420 ==> textBaseline
+1421 ==> worker_version
+1422 ==> debug
+1423 ==> LOW_INT
+1424 ==> withCredentials
+1425 ==> indexedDB
+1426 ==> .panel_error
+1427 ==>  is not a function
+1428 ==> webgl max cube map texture size:
+1429 ==> onClose
+1430 ==> onload
+1431 ==> pd
+1432 ==> $super
+1433 ==> _d
+1434 ==> LEQUAL
+1435 ==> rval
+1436 ==> embed
+1437 ==> bind
+1438 ==> error_100
+1439 ==> cookieEnabled
+1440 ==> mode
+1441 ==> className
+1442 ==> se
+1443 ==> appendTo
+1444 ==> Sf
+1445 ==> 请点击重试
+1446 ==> fEkexGxOwUyY
+1447 ==> rb
+1448 ==> touchcancel
+1449 ==> success_title
+1450 ==> webgl max viewport dims:
+1451 ==> L
+1452 ==> 请点击此处重试
+1453 ==> performanceTiming
+1454 ==> keyup
+1455 ==> msg
+1456 ==> /style
+1457 ==> up
+1458 ==> en
+1459 ==> .success_box
+1460 ==> font
+1461 ==> Xc
+1462 ==> fill
+1463 ==> .fullpage_pointer_out
+1464 ==> bg_color
+1465 ==> aeskey
+1466 ==> rect
+1467 ==> mouseleave
+1468 ==> df
+1469 ==> candidata
+1470 ==> depthFunc
+1471 ==> textLength
+1472 ==> error_113
+1473 ==> Ed
+1474 ==> Fd
+1475 ==> area
+1476 ==> min
+1477 ==> progress
+1478 ==> pb
+1479 ==> deg)
+1480 ==> getTime
+1481 ==> webgl fragment shader medium float precision:
+1482 ==> Cc
+1483 ==> Invalid RSA public key
+1484 ==> ARTICLE
+1485 ==> readyState
+1486 ==> goto_confirm
+1487 ==> hantom
+1488 ==> next_ready
+1489 ==> webgl vendor:
+1490 ==> static.geetest.com
+1491 ==> .css
+1492 ==> touchmove
+1493 ==> LINK
+1494 ==> .success_offline.offline
+1495 ==> Vf
+1496 ==> Ae
+1497 ==> stack
+1498 ==> setTimeout
+1499 ==> noConflict
+1500 ==> error_115
+1501 ==> sqrTo
+1502 ==> ha
+1503 ==> dlShiftTo
